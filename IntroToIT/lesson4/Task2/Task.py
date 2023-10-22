@@ -1,3 +1,3 @@
 #INTRO TO IT 2nd COURSE
 
-print("Hello, World!")
+print("Hello World")
