@@ -5,4 +5,4 @@ fruits = [
     "banana"
   "cherry"
 ]
-print(fruits)
+print(fruits
